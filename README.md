@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 📷 [LeetCode]([https://instagram.com/your_actual_username](https://leetcode.com/u/_Sahil_Chakraborty_13/))
+- 📷 [LeetCode](https://leetcode.com/u/_Sahil_Chakraborty_13/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-chakraborty-104a9a27a/)
 - ✉️ [Gmail](sahilchakraborty271@gmail.com)
 
