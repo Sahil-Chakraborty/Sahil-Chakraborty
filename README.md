@@ -33,9 +33,9 @@
 ---
 
 ### 📫 Let’s Connect!
-- 📷 [Instagram](https://instagram.com/your_actual_username)
+- 📷 [LeetCode]([https://instagram.com/your_actual_username](https://leetcode.com/u/_Sahil_Chakraborty_13/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-chakraborty-104a9a27a/)
-- ✉️ sahilchakraborty271@gmail.com
+- ✉️ [Gmail](sahilchakraborty271@gmail.com)
 
 ---
 
