@@ -10,33 +10,56 @@
 - 🎓 B.Tech in Information Technology (3rd Year, graduating in 2027)
 - 📍 Based in Kolkata, raised in Gujarat
 - 💻 I love building real-world apps in **Flutter**, and working on full-stack projects
-- 🚀 Currently built:  `News App (Prism)` 📰, `Verse` 💬, and more!
+- 🚀 Currently built: `News App (Prism)` 📰, `Verse` 💬, and more!
 - 📚 Practicing Data Structures & Algorithms (150+ LeetCode problems solved)
 - 🧠 Learning DBMS, OS, CN, and System Design!
 
 ---
 
-### 🔧 Tech Stack:
-- **Languages:** Dart, Python, Java, C, C++
-- **Frameworks/Libraries:** Flutter, Firebase, Supabase
-- **Tools:** Git, GitHub, VS Code
-- **Learning:** Data Analysis (pandas, PowerBi, Tableu, etc.).
+### 🛠 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,dart,flutter,react,redux,nodejs,express,postman,jwt,tailwind,css,html,firebase,supabase,postgres,mongodb,mysql,aws,docker,git,github,githubactions,vscode,markdown,nextjs,vite" />
+</p>
 
 ---
 
-### 📈 GitHub Stats:
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=radical&no-frame=true&title=Stars,Commits,PRs,Issues" />
+</p>
+
+---
+
+### 📈 GitHub Analytics:
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&theme=radical" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ### 📫 Let’s Connect!
-- 📷 [LeetCode](https://leetcode.com/u/_Sahil_Chakraborty_13/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-chakraborty-104a9a27a/)
-- ✉️ [Gmail](sahilchakraborty271@gmail.com)
+
+<p align="center">
+  <a href="https://leetcode.com/u/_Sahil_Chakraborty_13/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-chakraborty-104a9a27a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sahilchakraborty271@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > *"Code what you love, love what you build."* 💻💕
+
