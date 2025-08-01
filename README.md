@@ -20,7 +20,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,firebase,supabase,mysql,git,github,vscode" />
+  <img src="icons/pandas.svg" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="icons/numpy.svg" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="icons/seaborn.png" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="icons/matplotlib.svg" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="icons/jupyter.svg" width="48" style="border-radius: 12px; margin: 5px;" />
 </p>
+
 
 ---
 
