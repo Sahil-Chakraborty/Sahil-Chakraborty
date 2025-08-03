@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Sahil Chakraborty 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Trust+the+Process;3rd+Year+IT+Undergrad;Flutter;Will+Become+Data+Scientist+Soon+%E2%9D%A4%EF%B8%8F;Aspiring+SDE;Loves+Building+Real+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
+
 
 ---
 
