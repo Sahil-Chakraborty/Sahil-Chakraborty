@@ -30,6 +30,82 @@
 
 ---
 
+
+
+## 📱 Flutter Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### [Prism News App](https://github.com/Sahil-Chakraborty/prism)  
+📰 Real-time Flutter news app delivering categorized and trending articles.  
+
+</td>
+<td width="50%" align="center">
+  
+### [Focalix](https://github.com/Sahil-Chakraborty/Focalix)  
+🖼️ AI-powered chatbot that answers questions based on user-uploaded images.  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  
+### [Weather App](https://github.com/Sahil-Chakraborty/weather_app)  
+🌦️ Flutter weather app fetching real-time weather with a clean UI.  
+
+</td>
+<td width="50%" align="center">
+  
+### [Verse](https://github.com/Sahil-Chakraborty/Verse)  
+💬 A modern platform for verse and thought writters  built in Flutter with smooth UI & real-time features.  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Data Analysis Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### [AI Usage by Students](https://github.com/Sahil-Chakraborty/Analysing_AI_Usage_by_Students)  
+📊 Data analysis on AI adoption trends among students, tasks, and outcomes.  
+
+</td>
+<td width="50%" align="center">
+  
+### [Amazon Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
+📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  
+### [Data Science Salaries EDA](https://github.com/Sahil-Chakraborty/Data_Science_Salaries_EDA_2023)  
+💼 EDA on global data science salaries across roles, levels, and locations.  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### 🏆 GitHub Trophies:
 
 <p align="center">
