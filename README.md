@@ -1,11 +1,10 @@
 <h1 align="center">Hey there, I'm Sahil Chakraborty 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
-
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech in Information Technology (3rd Year, graduating in 2027)
@@ -28,10 +27,7 @@
   <img src="icons/jupyter.svg" width="48" style="border-radius: 12px; margin: 5px;" />
 </p>
 
-
 ---
-
-
 
 ## 📱 Flutter Projects  
 
@@ -63,7 +59,7 @@
 <td width="50%" align="center">
   
 ### [Verse](https://github.com/Sahil-Chakraborty/Verse)  
-💬 A modern platform for verse and thought writters  built in Flutter with smooth UI & real-time features.  
+💬 A modern platform for verse and thought writers built in Flutter with smooth UI & real-time features.  
 
 </td>
 </tr>
@@ -110,35 +106,30 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=radical&no-frame=true&title=Stars,Commits,PRs,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics:
-
----
-
-### 👀 Profile Views  
+### 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&icon_color=34D399&border_color=38BDF8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&border_color=38BDF8" />
 </p>
 
----
 
+---
 ### 📫 Let’s Connect!
 
 <p align="center">
