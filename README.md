@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-
 ---
+
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech in Information Technology (3rd Year, graduating in 2027)
@@ -116,6 +116,17 @@
 ---
 
 ### 📈 GitHub Analytics:
+
+---
+
+### 👀 Profile Views  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-brightgreen?style=for-the-badge&logo=github" />
+</p>
+
+---
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&theme=radical" />
