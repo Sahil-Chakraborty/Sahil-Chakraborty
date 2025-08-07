@@ -29,6 +29,35 @@
 
 ---
 
+
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues" />
+</p>
+
+---
+
+### 📈 GitHub Analytics  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&icon_color=34D399&border_color=38BDF8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&border_color=38BDF8" />
+</p>
+
+
+---
+
 ## 📱 Flutter Projects  
 
 <div align="center">
@@ -109,33 +138,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues" />
-</p>
-
----
-
-### 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&icon_color=34D399&border_color=38BDF8" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&border_color=38BDF8" />
-</p>
-
-
----
 ### 📫 Let’s Connect!
 
 <p align="center">
