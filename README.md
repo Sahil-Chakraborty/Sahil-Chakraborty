@@ -41,7 +41,7 @@
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-150%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Profile%20Views-60%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
