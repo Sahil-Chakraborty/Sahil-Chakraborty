@@ -7,12 +7,12 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech in Information Technology (3rd Year, graduating in 2027)
-- 📍 Based in Kolkata, raised in Gujarat
-- 💻 I love building real-world apps in **Flutter**, and working on full-stack projects
-- 🚀 Currently built: `News App (Prism)` 📰, `Verse` 💬, and more!
-- 📚 Practicing Data Structures & Algorithms (150+ LeetCode problems solved)
-- 🧠 Learning DBMS, OS, CN, and System Design!
+- 🎓 B.Tech in Information Technology (3rd Year, graduating 2027)    
+- 💻 Passionate about building full-stack applications, especially with **Flutter**  
+- 🛠️ Built real-world apps like `Prism (News App)`, `Verse`, and more  
+- 📊 Actively exploring **Data Analytics** through real-world datasets and insightful visualizations  
+- 📚 Strengthening core CS concepts – DBMS, OS, CN, System Design  
+- 🔁 150+ LeetCode problems solved – focused on mastering DSA  
 
 ---
 
