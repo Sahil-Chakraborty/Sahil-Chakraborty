@@ -127,7 +127,7 @@
 </td>
 <td width="50%" align="center">
   
-### [Bank Customer Churn Analysis](https://github.com/Sahil-Chakraborty/Bank-Customer-Churn-Analysis)  
+### [Bank Customer Churn Analysis](https://github.com/Sahil-Chakraborty/Bank-Churn-Analysis)  
 🔍 Behavioral churn analysis based on customer demographics, activity, and account metrics.  
 
 </td>
