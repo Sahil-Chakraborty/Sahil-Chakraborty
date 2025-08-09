@@ -136,7 +136,7 @@
 <tr>
 <td width="50%" align="center">
 
-### [Finance Analysis](https://github.com/Sahil-Chakraborty/Finance-Analysis)  
+### [Finance Analysis](https://github.com/Sahil-Chakraborty/Company-Finance-Analysis/tree/main)  
 📉 Financial analysis of a company's performance by geography, segments, sales, profits, discounts, and key business metrics to reveal insights.
 
 </td>
