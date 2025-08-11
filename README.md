@@ -58,6 +58,61 @@
 
 ---
 
+## 📊 Data Analysis Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### [Amazon Customer Survey Analysis](https://github.com/Sahil-Chakraborty/Amazon-customer-survey-Analysis)  
+🛒 Analysis of Amazon customer survey data to uncover key demographics, satisfaction drivers, pain points, and improvement opportunities.
+
+</td>
+<td width="50%" align="center">
+
+### [Finance Analysis](https://github.com/Sahil-Chakraborty/Company-Finance-Analysis/tree/main)  
+📉 Financial analysis of a company's performance by geography, segments, sales, profits, discounts, and key business metrics to reveal insights.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  
+### [Bank Customer Churn Analysis](https://github.com/Sahil-Chakraborty/Bank-Churn-Analysis)  
+🔍 Behavioral churn analysis based on customer demographics, activity, and account metrics.  
+
+</td>
+<td width="50%" align="center">
+  
+### [Data Science Salaries EDA](https://github.com/Sahil-Chakraborty/Data_Science_Salaries_EDA_2023)  
+💼 EDA on global data science salaries across roles, levels, and locations.  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  
+### [Amazon Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
+📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
+
+</td>
+<td width="50%" align="center">
+  
+### [AI Usage by Students](https://github.com/Sahil-Chakraborty/Analysing_AI_Usage_by_Students)  
+📊 Data analysis on AI adoption trends among students, tasks, and outcomes.  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📱 Flutter Projects  
 
 <div align="center">
@@ -98,56 +153,7 @@
 
 ---
 
-## 📊 Data Analysis Projects  
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  
-### [AI Usage by Students](https://github.com/Sahil-Chakraborty/Analysing_AI_Usage_by_Students)  
-📊 Data analysis on AI adoption trends among students, tasks, and outcomes.  
-
-</td>
-<td width="50%" align="center">
-  
-### [Amazon Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
-📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  
-### [Data Science Salaries EDA](https://github.com/Sahil-Chakraborty/Data_Science_Salaries_EDA_2023)  
-💼 EDA on global data science salaries across roles, levels, and locations.  
-
-</td>
-<td width="50%" align="center">
-  
-### [Bank Customer Churn Analysis](https://github.com/Sahil-Chakraborty/Bank-Churn-Analysis)  
-🔍 Behavioral churn analysis based on customer demographics, activity, and account metrics.  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### [Finance Analysis](https://github.com/Sahil-Chakraborty/Company-Finance-Analysis/tree/main)  
-📉 Financial analysis of a company's performance by geography, segments, sales, profits, discounts, and key business metrics to reveal insights.
-
-</td>
-<td></td>
-</tr>
-</table>
-
-</div>
-
-
----
 
 ### 📫 Let’s Connect!
 
