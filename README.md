@@ -102,7 +102,7 @@
 </td>
 <td width="50%" align="center">
   
-### [Amazon Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
+### [Product Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
 📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
 
 </td>
