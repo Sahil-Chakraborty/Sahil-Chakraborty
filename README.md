@@ -1,10 +1,15 @@
-<h1 align="center">Hey there, I'm Sahil Chakraborty 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&text=Hey%20there%2C%20I'm%20Sahil%20Chakraborty%20👋&fontColor=38BDF8&fontSize=40&fontAlign=50&height=80" />
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech in Information Technology (3rd Year, graduating 2027)    
@@ -14,7 +19,9 @@
 - 📚 Strengthening core CS concepts – DBMS, OS, CN, System Design  
 - 🔁 150+ LeetCode problems solved – focused on mastering DSA  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+
+
 
 ### 🛠 Tech Stack:
 
@@ -27,7 +34,8 @@
   <img src="icons/jupyter.svg" width="48" style="border-radius: 12px; margin: 5px;" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+
 
 
 ### 🏆 GitHub Trophies:
@@ -36,7 +44,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+
 
 ### 📈 GitHub Analytics  
 
@@ -44,7 +53,8 @@
   <img src="https://img.shields.io/badge/Profile%20Views-60%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&icon_color=34D399&border_color=38BDF8" />
@@ -56,7 +66,7 @@
 </p>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
 
 ## 📊 Data Analysis Projects  
 
@@ -127,7 +137,7 @@
 </div>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
 
 
 ## 📱 Flutter Projects  
@@ -168,7 +178,8 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+
 
 
 
@@ -188,4 +199,6 @@
 
 ---
 
-> *"Code what you love, love what you build."* 💻💕
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+what+you+love;Love+what+you+build;Keep+learning%2C+keep+growing" alt="Typing Animation" />
+</p>
