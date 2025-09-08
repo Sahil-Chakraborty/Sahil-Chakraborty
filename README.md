@@ -82,38 +82,53 @@
 </td>
 <td width="50%" align="center">
 
-### [Global AI Adoption Accross Leading Industries](https://github.com/Sahil-Chakraborty/AI-Impact-on-Global-Industries)  
-🤖 Analyzes global AI adoption (2020–2025) across industries and regions, covering trends in usage, market shifts, revenue, jobs, collaboration, and public trust. Shows how AI transforms key sectors and reshapes market shares of USA, UK, China, and India, highlighting both opportunities and challenges.
+### [Attrition Analysis Dashboard](https://github.com/Sahil-Chakraborty/Attrition-Analysis)  
+📊 Comprehensive analysis of employee attrition using Python (EDA, visualization) and Tableau. Identified key demographic, job-related, and compensation factors driving turnover, providing actionable insights for HR to improve retention, engagement, and workforce planning.
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" align="center">
+
+### [Global AI Adoption Accross Leading Industries](https://github.com/Sahil-Chakraborty/AI-Impact-on-Global-Industries)  
+🤖 Analyzes global AI adoption (2020–2025) across industries and regions, covering trends in usage, market shifts, revenue, jobs, collaboration, and public trust. Shows how AI transforms key sectors and reshapes market shares of USA, UK, China, and India, highlighting both opportunities and challenges.
+
+</td>
 <td width="50%" align="center">
 
 ### [Amazon Customer Survey Analysis](https://github.com/Sahil-Chakraborty/Amazon-customer-survey-Analysis)  
 🛒 Analysis of Amazon customer survey data to uncover key demographics, satisfaction drivers, pain points, and improvement opportunities.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" align="center">
 
 ### [Finance Analysis](https://github.com/Sahil-Chakraborty/Company-Finance-Analysis/tree/main)  
 📉 Financial analysis of a company's performance by geography, segments, sales, profits, discounts, and key business metrics to reveal insights.
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" align="center">
 
 ### [Bank Customer Churn Analysis](https://github.com/Sahil-Chakraborty/Bank-Churn-Analysis)  
 🔍 Behavioral churn analysis based on customer demographics, activity, and account metrics.  
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" align="center">
   
 ### [Data Science Salaries EDA](https://github.com/Sahil-Chakraborty/Data_Science_Salaries_EDA_2023)  
 💼 EDA on global data science salaries across roles, levels, and locations.  
+
+</td>
+<td width="50%" align="center">
+  
+### [Product Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
+📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
 
 </td>
 </tr>
@@ -121,15 +136,11 @@
 <tr>
 <td width="50%" align="center">
   
-### [Product Sales Analysis](https://github.com/Sahil-Chakraborty/Amazon_Sales_Analysis)  
-📈 Sales trend analysis with insights on pricing, discounts, and customer ratings.  
-
-</td>
-<td width="50%" align="center">
-  
 ### [AI Usage by Students](https://github.com/Sahil-Chakraborty/Analysing_AI_Usage_by_Students)  
 📊 Data analysis on AI adoption trends among students, tasks, and outcomes.  
 
+</td>
+<td width="50%" align="center">  
 </td>
 </tr>
 </table>
@@ -138,6 +149,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+
 
 
 ## 📱 Flutter Projects  
