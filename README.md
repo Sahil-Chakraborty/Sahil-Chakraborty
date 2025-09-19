@@ -33,6 +33,7 @@
   <img src="icons/matplotlib.svg" width="48" style="border-radius: 12px; margin: 5px;" />
   <img src="icons/jupyter.svg" width="48" style="border-radius: 12px; margin: 5px;" />
   <img src="icons/tableau.svg" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="icons/excel.png" width="48" style="border-radius: 12px; margin: 5px;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
