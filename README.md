@@ -78,8 +78,8 @@
 <tr>
 <td width="50%" align="center">
 
-### [Amazon Sales Report Analysis (Intership Project)](https://github.com/Sahil-Chakraborty/Amazon-Sales-Analysis-Internship-Project-)  
-🛍️ Comprehensive EDA on Amazon sales transactions covering order trends, product performance, fulfillment efficiency, customer segmentation, geographic distribution, and actionable business insights to optimize revenue and retention.
+### [Sales Report Analysis (Intership Project)](https://github.com/Sahil-Chakraborty/Amazon-Sales-Analysis-Internship-Project-)  
+🛍️ Comprehensive EDA on sales transactions covering order trends, product performance, fulfillment efficiency, customer segmentation, geographic distribution, and actionable business insights to optimize revenue and retention.
 
 </td>
 <td width="50%" align="center">
