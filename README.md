@@ -2,73 +2,116 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&text=Hey%20there%2C%20I'm%20Sahil%20Chakraborty%20👋&fontColor=38BDF8&fontSize=40&fontAlign=50&height=80" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Data+Engineering;Building+Scalable+Data+Pipelines;Consistency+Beats+Motivation;Turning+Raw+Data+Into+Insights" />
 </p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech in Information Technology (3rd Year, graduating 2027)    
-- 💻 Passionate about building full-stack applications, especially with **Flutter**  
-- 🛠️ Built real-world apps like `Prism (News App)`, `Verse`, and more  
-- 📊 Actively exploring **Data Analytics** through real-world datasets and insightful visualizations  
-- 📚 Strengthening core CS concepts – DBMS, OS, CN, System Design  
-- 🔁 150+ LeetCode problems solved – focused on mastering DSA  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+- 🎓 B.Tech in Information Technology (Graduating 2027)  
+- 📊 Focused on **Big Data Analytics & Engineering**  
+- 🏗️ Built scalable **PySpark + Delta Lake** pipelines  
+- 📈 300+ LeetCode problems solved  
+- 📚 Strong in DBMS, OS, CN & System Design  
+- 📱 Also experienced in Flutter-based full-stack apps  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
+### 🛠 Tech Stack  
 
+<div align="center">
 
-### 🛠 Tech Stack:
+<table>
+<tr>
+<td width="50%" align="center">
 
+### 👨‍💻 Programming  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,firebase,supabase,mysql,git,github,vscode" />
-  <img src="icons/pandas.svg" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/numpy.svg" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/seaborn.png" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/matplotlib.svg" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/jupyter.svg" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/tableau.svg" width="48" style="border-radius: 12px; margin: 5px;" />
-  <img src="icons/excel.png" width="48" style="border-radius: 12px; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python,java" height="45"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+</td>
 
+<td width="50%" align="center">
 
-
-### 🏆 GitHub Trophies:
-
+### 📊 Data Analytics  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Chakraborty&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues" />
+  <img src="icons/pandas.svg" height="40" style="margin:6px;" />
+  <img src="icons/numpy.svg" height="40" style="margin:6px;" />
+  <img src="icons/seaborn.png" height="40" style="margin:6px;" />
+  <img src="icons/matplotlib.svg" height="40" style="margin:6px;" />
+  <img src="icons/jupyter.svg" height="40" style="margin:6px;" />
+  <img src="icons/tableau.svg" height="40" style="margin:6px;" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+</td>
+</tr>
 
+<tr>
+<td width="50%" align="center">
 
-### 📈 GitHub Analytics  
-
+### ⚙️ Big Data & Cloud  
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-60%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="icons/apache_spark_logo_icon_170560.png" height="45" style="margin:8px;" />
+  <img src="icons/databricks-logo.png" height="45" style="margin:8px;" />
+  <img src="icons/S3.webp" height="45" style="margin:8px;" />
+  <img src="icons/aws_icon_146074.webp" height="45" style="margin:8px;" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%" />
+</td>
 
+<td width="50%" align="center">
 
+### 📱 Development & Tools  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chakraborty&show_icons=true&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&icon_color=34D399&border_color=38BDF8" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,git,github,vscode" height="45"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+
+### 📈 GitHub Analytics
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chakraborty&layout=compact&bg_color=0A192F&title_color=38BDF8&text_color=A5F3FC&border_color=38BDF8" />
-</p>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+
+## 🚀 Big Data Analytics  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### [E-Commerce Medallion Data Pipeline](https://github.com/Sahil-Chakraborty/Ecommerce-medallion-data-pipeline-databricks)  
+⚙️ An end-to-end Lakehouse-based E-Commerce analytics solution built using a Medallion Architecture (Bronze → Silver → Gold) in Databricks.
+The project processes raw transactional CSV data into a curated gold-layer fact model powering interactive Tableau dashboards.
+
+</td>
+<td width="50%" align="center">
+
+### [Spark Lakehouse CDC Pipeline](https://github.com/Sahil-Chakraborty/Spark-lakehouse-cdc-pipeline)  
+🔥 This project implements a production-style Lakehouse data engineering pipeline using Apache Spark Structured Streaming and Delta Lake on Databricks.The objective of this project is to simulate real-world modern data engineering workflows including incremental ingestion, schema evolution handling, streaming transformations, and dimensional modeling for BI consumption.
+ 
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ## 📊 Data Analysis Projects  
 
@@ -149,10 +192,8 @@
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ## 📱 Flutter Projects  
 
@@ -195,8 +236,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
 
 
-
-
 ### 📫 Let’s Connect!
 
 <p align="center">
@@ -211,8 +250,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+what+you+love;Love+what+you+build;Keep+learning%2C+keep+growing" alt="Typing Animation" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
