@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&text=Hey%20there%2C%20I'm%20Sahil%20Chakraborty%20👋&fontColor=38BDF8&fontSize=40&fontAlign=50&height=80" />
+  <img src="icons/linkedin_banner.png" width="150%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Data+Engineering;Building+Scalable+Data+Pipelines;Consistency+Beats+Motivation;Turning+Raw+Data+Into+Insights" />
-</p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ SAHIL! 
+<br /> 
 
-### 👨‍💻 About Me:
+<p align="left">Hi, I’m a student focused on Data Engineering and Analytics, building real-world, production-style data solutions. I work extensively with PySpark, Spark Structured Streaming, Delta Lake, and modern data tools to design scalable pipelines and analytical systems. </p>
+
+
 
 - 🎓 B.Tech in Information Technology (Graduating 2027)  
 - 📊 Focused on **Big Data Analytics & Engineering**  
@@ -16,7 +20,6 @@
 - 📈 300+ LeetCode problems solved  
 - 📚 Strong in DBMS, OS, CN & System Design  
 - 📱 Also experienced in Flutter-based full-stack apps  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ### 🛠 Tech Stack  
@@ -75,15 +78,12 @@
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ### 📈 GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=67&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ## 🚀 Big Data Analytics  
@@ -110,7 +110,6 @@ The project processes raw transactional CSV data into a curated gold-layer fact 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ## 📊 Data Analysis Projects  
@@ -192,7 +191,6 @@ The project processes raw transactional CSV data into a curated gold-layer fact 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
 ## 📱 Flutter Projects  
