@@ -33,48 +33,48 @@
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ### 👨‍💻 Programming  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,java" height="38"/>
 </p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ### 📊 Data Analytics  
 <p align="center">
-  <img src="icons/pandas.svg" height="40" style="margin:6px;" />
-  <img src="icons/numpy.svg" height="40" style="margin:6px;" />
-  <img src="icons/seaborn.png" height="40" style="margin:6px;" />
-  <img src="icons/matplotlib.svg" height="40" style="margin:6px;" />
-  <img src="icons/jupyter.svg" height="40" style="margin:6px;" />
-  <img src="icons/tableau.svg" height="40" style="margin:6px;" />
+  <img src="icons/pandas.svg" height="34"/>
+  <img src="icons/numpy.svg" height="34"/>
+  <img src="icons/seaborn.png" height="34"/>
+  <img src="icons/matplotlib.svg" height="34"/>
+  <img src="icons/jupyter.svg" height="34"/>
+  <img src="icons/tableau.svg" height="34"/>
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ### ⚙️ Big Data & Cloud  
 <p align="center">
-  <img src="icons/apache_spark_logo_icon_170560.png" height="45" style="margin:8px;" />
-  <img src="icons/databricks-logo.png" height="45" style="margin:8px;" />
-  <img src="icons/S3.webp" height="45" style="margin:8px;" />
-  <img src="icons/aws_icon_146074.webp" height="45" style="margin:8px;" />
+  <img src="icons/apache_spark_logo_icon_170560.png" height="38"/>
+  <img src="icons/databricks-logo.png" height="38"/>
+  <img src="icons/S3.webp" height="38"/>
+  <img src="icons/aws_icon_146074.webp" height="38"/>
 </p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ### 📱 Development & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,git,github,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,git,github,vscode" height="38"/>
 </p>
 
 </td>
@@ -88,13 +88,13 @@
 <td width="50%" align="center" valign="top">
 
 ### 📈 GitHub Analytics
+
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
+  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
 </p>
 
-
 <p align="center">
-  <img src="icons/khabib.gif" width="93%" />
+  <img src="icons/khabib.gif" width="92%" />
 </p>
 
 </td>
