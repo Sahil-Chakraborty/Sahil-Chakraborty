@@ -22,6 +22,11 @@
 - 📱 Also experienced in Flutter-based full-stack apps  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
+<table width="100%">
+<tr>
+
+<td width="60%" align="center" valign="top">
+
 ### 🛠 Tech Stack  
 
 <div align="center">
@@ -77,12 +82,25 @@
 </table>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
+
+</td>
+
+<td width="40%" align="center" valign="top">
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Chakraborty&background=0A192F&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideNums=34D399&currStreakNum=38BDF8&sideLabels=34D399&dates=93C5FD&border=38BDF8" />
 </p>
+
+
+<p align="center">
+  <img src="icons/khabib.gif" width="93%" />
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
