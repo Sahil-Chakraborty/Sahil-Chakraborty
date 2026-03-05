@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 ### 👨‍💻 Programming  
 <p align="center">
@@ -42,7 +42,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 ### 📊 Data Analytics  
 <p align="center">
@@ -58,7 +58,7 @@
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 ### ⚙️ Big Data & Cloud  
 <p align="center">
@@ -70,7 +70,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 ### 📱 Development & Tools  
 <p align="center">
@@ -85,7 +85,7 @@
 
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📈 GitHub Analytics
 <p align="center">
