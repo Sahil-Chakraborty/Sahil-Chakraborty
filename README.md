@@ -25,7 +25,7 @@
 <table width="100%">
 <tr>
 
-<td width="60%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🛠 Tech Stack  
 
