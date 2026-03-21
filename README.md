@@ -34,7 +34,7 @@
 
 ### 👨‍💻 Programming  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" height="38"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" height="38"/>
 </p>
 
 </td>
@@ -71,7 +71,7 @@
 
 ### 📱 Development & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mysql,git,github,vscode" height="38"/>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,git,github,vscode" height="38"/>
 </p>
 
 </td>
