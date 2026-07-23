@@ -17,7 +17,7 @@
 - 🎓 B.Tech in Information Technology (Graduating 2027)  
 - 📊 Focused on **Big Data Analytics & Engineering**  
 - 🏗️ Built scalable **PySpark + Delta Lake** pipelines  
-- 📈 300+ LeetCode problems solved  
+- 📈 400+ LeetCode problems solved  
 - 📚 Strong in DBMS, OS, CN & System Design  
 - 📱 Also experienced in Flutter-based full-stack apps  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
