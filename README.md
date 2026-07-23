@@ -18,7 +18,7 @@
 - 📊 Focused on **Big Data Analytics & Engineering**  
 - 🏗️ Built scalable **PySpark + Delta Lake** pipelines  
 - 📈 400+ LeetCode problems solved  
-- 📚 Strong in DBMS, OS, CN & System Design  
+- 📚 Strong in DBMS and OOPs 
 - 📱 Also experienced in Flutter-based full-stack apps  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:38BDF8&height=4&section=header" width="100%"/>
 
