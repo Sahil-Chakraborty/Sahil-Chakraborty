@@ -63,6 +63,7 @@
   <img src="icons/databricks-logo.png" height="38"/>
   <img src="icons/S3.webp" height="38"/>
   <img src="icons/aws_icon_146074.webp" height="38"/>
+  <img src="icons/dbt-logo-png_seeklogo-431111.png" height="38"/>
 </p>
 
 </td>
