@@ -120,6 +120,17 @@ The project processes raw transactional CSV data into a curated gold-layer fact 
  
 </td>
 </tr>
+
+<tr>
+<td width="50%" align="center">
+
+### [Ride-Hailing Lakehouse Pipeline with dbt](https://github.com/Sahil-Chakraborty/Ride-Hailing-Lakehouse-Pipeline-with-DBT)  
+ An end-to-end Lakehouse pipeline built entirely in Databricks, using Spark Structured Streaming and Delta MERGE upserts for the Bronze and Silver layers, and dbt Cloud for the Gold layer with SCD Type 2 snapshots and a point-in-time BI table. Powers a four-page Tableau dashboard covering revenue, customers and operations.
+
+</td>
+<td width="50%" align="center">
+</td>
+</tr>
 </table>
 
 </div>
